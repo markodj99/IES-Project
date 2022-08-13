@@ -1,0 +1,200 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="18">
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="CONNECTIVITYNODECONTAINER" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="CNC_001_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="CNC_001_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="CNC_001_aliasName" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffe" type="CONNECTIVITYNODECONTAINER" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="CNC_002_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="CNC_002_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="CNC_002_aliasName" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="TOPOLOGICALNODE" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="TN_001_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="TN_001_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="TN_001_aliasName" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffe" type="TOPOLOGICALNODE" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="TN_002_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="TN_002_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="TN_002_aliasName" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="CONNECTIVITYNODE" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="CN_001_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="CN_001_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="CN_001_aliasName" />
+            <Property id="CONNECTIVITYNODE_TOPOLOGICALNODE" value="0x00000002ffffffff" />
+            <Property id="CONNECTIVITYNODE_CONNECTIVITYNODECONTAINER" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffe" type="CONNECTIVITYNODE" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="CN_002_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="CN_002_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="CN_002_aliasName" />
+            <Property id="CONNECTIVITYNODE_TOPOLOGICALNODE" value="0x00000002ffffffff" />
+            <Property id="CONNECTIVITYNODE_CONNECTIVITYNODECONTAINER" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffd" type="CONNECTIVITYNODE" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="CN_003_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="CN_003_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="CN_003_aliasName" />
+            <Property id="CONNECTIVITYNODE_TOPOLOGICALNODE" value="0x00000002fffffffe" />
+            <Property id="CONNECTIVITYNODE_CONNECTIVITYNODECONTAINER" value="0x00000001fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffc" type="CONNECTIVITYNODE" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="CN_004_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="CN_004_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="CN_004_aliasName" />
+            <Property id="CONNECTIVITYNODE_TOPOLOGICALNODE" value="0x00000002fffffffe" />
+            <Property id="CONNECTIVITYNODE_CONNECTIVITYNODECONTAINER" value="0x00000001fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="BASEVOLTAGE" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="BV_001_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="BV_001_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="BV_001_aliasName" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffe" type="BASEVOLTAGE" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="BV_002_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="BV_002_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="BV_002_aliasName" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="SWITCH" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="SW_001_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="SW_001_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="SW_001_aliasName" />
+            <Property id="EQUIPMENT_AGGREGATE" value="1" />
+            <Property id="EQUIPMENT_NORMALLYINSERVICE" value="1" />
+            <Property id="CONDUCTINGEQUIPMENT_BASEVOLTAGE" value="0x00000004ffffffff" />
+            <Property id="SWITCH_NORMALOPEN" value="1" />
+            <Property id="SWITCH_RATEDCURRENT" value="40.1" />
+            <Property id="SWITCH_RETAINED" value="1" />
+            <Property id="SWITCH_SWITCHONCOUNT" value="4" />
+            <Property id="SWITCH_SWITCHONDATE" value="637873551300900000" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffe" type="SWITCH" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="SW_002_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="SW_002_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="SW_002_aliasName" />
+            <Property id="EQUIPMENT_AGGREGATE" value="0" />
+            <Property id="EQUIPMENT_NORMALLYINSERVICE" value="0" />
+            <Property id="CONDUCTINGEQUIPMENT_BASEVOLTAGE" value="0x00000004fffffffe" />
+            <Property id="SWITCH_NORMALOPEN" value="0" />
+            <Property id="SWITCH_RATEDCURRENT" value="50.1" />
+            <Property id="SWITCH_RETAINED" value="0" />
+            <Property id="SWITCH_SWITCHONCOUNT" value="5" />
+            <Property id="SWITCH_SWITCHONDATE" value="637900335300900000" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffd" type="SWITCH" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="SW_003_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="SW_003_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="SW_003_aliasName" />
+            <Property id="EQUIPMENT_AGGREGATE" value="1" />
+            <Property id="EQUIPMENT_NORMALLYINSERVICE" value="1" />
+            <Property id="CONDUCTINGEQUIPMENT_BASEVOLTAGE" value="0x00000004ffffffff" />
+            <Property id="SWITCH_NORMALOPEN" value="1" />
+            <Property id="SWITCH_RATEDCURRENT" value="40.1" />
+            <Property id="SWITCH_RETAINED" value="1" />
+            <Property id="SWITCH_SWITCHONCOUNT" value="4" />
+            <Property id="SWITCH_SWITCHONDATE" value="637873551300900000" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffc" type="SWITCH" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="SW_004_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="SW_004_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="SW_004_aliasName" />
+            <Property id="EQUIPMENT_AGGREGATE" value="0" />
+            <Property id="EQUIPMENT_NORMALLYINSERVICE" value="0" />
+            <Property id="CONDUCTINGEQUIPMENT_BASEVOLTAGE" value="0x00000004fffffffe" />
+            <Property id="SWITCH_NORMALOPEN" value="0" />
+            <Property id="SWITCH_RATEDCURRENT" value="50.1" />
+            <Property id="SWITCH_RETAINED" value="0" />
+            <Property id="SWITCH_SWITCHONCOUNT" value="5" />
+            <Property id="SWITCH_SWITCHONDATE" value="637900335300900000" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006ffffffff" type="TERMINAL" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="T_001_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="T_001_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="T_001_aliasName" />
+            <Property id="TERMINAL_CONNECTIVITYNODE" value="0x00000003ffffffff" />
+            <Property id="TERMINAL_CONDUCTINGEQUIPMENT" value="0x00000005ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006fffffffe" type="TERMINAL" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="T_002_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="T_002_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="T_002_aliasName" />
+            <Property id="TERMINAL_CONNECTIVITYNODE" value="0x00000003fffffffe" />
+            <Property id="TERMINAL_CONDUCTINGEQUIPMENT" value="0x00000005fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006fffffffd" type="TERMINAL" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="T_003_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="T_003_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="T_003_aliasName" />
+            <Property id="TERMINAL_CONNECTIVITYNODE" value="0x00000003fffffffd" />
+            <Property id="TERMINAL_CONDUCTINGEQUIPMENT" value="0x00000005fffffffd" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006fffffffc" type="TERMINAL" />
+          <Properties>
+            <Property id="IDENTIFIEDOBJECT_MRID" value="T_004_mRID" />
+            <Property id="IDENTIFIEDOBJECT_NAME" value="T_004_name" />
+            <Property id="IDENTIFIEDOBJECT_ALIASNAME" value="T_004_aliasName" />
+            <Property id="TERMINAL_CONNECTIVITYNODE" value="0x00000003fffffffc" />
+            <Property id="TERMINAL_CONDUCTINGEQUIPMENT" value="0x00000005fffffffc" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>

@@ -1,0 +1,138 @@
+13-Aug-22 20:32:07 : Getting GID values method failed.
+	An item with the same key has already been added.
+13-Aug-22 20:32:33 : Getting values method started.
+13-Aug-22 20:32:33 : Getting values method successfully finished.
+13-Aug-22 20:35:16 : Getting GID values method failed.
+	An item with the same key has already been added.
+13-Aug-22 20:36:56 : Getting GID values method failed.
+	An item with the same key has already been added.
+13-Aug-22 20:37:10 : Getting values method started.
+13-Aug-22 20:37:10 : Getting values method successfully finished.
+13-Aug-22 20:37:14 : Getting values method started.
+13-Aug-22 20:37:14 : Getting values method successfully finished.
+13-Aug-22 20:37:15 : Getting values method started.
+13-Aug-22 20:37:15 : Getting values method successfully finished.
+13-Aug-22 20:37:21 : Getting values method started.
+13-Aug-22 20:37:21 : Failed to get model type code for DMS type: 0. Invalid DMS type
+13-Aug-22 20:37:21 : Getting values method for entered id = 0 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+13-Aug-22 20:44:20 : Getting GID values method failed.
+	An item with the same key has already been added.
+13-Aug-22 20:44:59 : Getting extent values method started.
+13-Aug-22 20:44:59 : Getting extent values method successfully finished.
+13-Aug-22 20:44:59 : Getting values method started.
+13-Aug-22 20:44:59 : Getting values method successfully finished.
+13-Aug-22 20:44:59 : Getting values method started.
+13-Aug-22 20:44:59 : Getting values method successfully finished.
+13-Aug-22 20:45:23 : Getting extent values method started.
+13-Aug-22 20:45:23 : Getting extent values method successfully finished.
+13-Aug-22 20:45:23 : Getting values method started.
+13-Aug-22 20:45:23 : Getting values method successfully finished.
+13-Aug-22 20:45:23 : Getting values method started.
+13-Aug-22 20:45:23 : Getting values method successfully finished.
+13-Aug-22 20:45:45 : Getting extent values method started.
+13-Aug-22 20:45:45 : Getting extent values method successfully finished.
+13-Aug-22 20:45:45 : Getting values method started.
+13-Aug-22 20:45:45 : Getting values method successfully finished.
+13-Aug-22 20:45:45 : Getting values method started.
+13-Aug-22 20:45:45 : Getting values method successfully finished.
+13-Aug-22 20:45:45 : Getting values method started.
+13-Aug-22 20:45:45 : Getting values method successfully finished.
+13-Aug-22 20:45:45 : Getting values method started.
+13-Aug-22 20:45:45 : Getting values method successfully finished.
+13-Aug-22 20:46:10 : Getting extent values method started.
+13-Aug-22 20:46:10 : Getting extent values method successfully finished.
+13-Aug-22 20:46:10 : Getting values method started.
+13-Aug-22 20:46:10 : Getting values method successfully finished.
+13-Aug-22 20:46:10 : Getting values method started.
+13-Aug-22 20:46:10 : Getting values method successfully finished.
+13-Aug-22 20:46:44 : Getting extent values method started.
+13-Aug-22 20:46:44 : Getting extent values method successfully finished.
+13-Aug-22 20:46:44 : Getting values method started.
+13-Aug-22 20:46:44 : Getting values method successfully finished.
+13-Aug-22 20:46:44 : Getting values method started.
+13-Aug-22 20:46:44 : Getting values method successfully finished.
+13-Aug-22 20:46:44 : Getting values method started.
+13-Aug-22 20:46:44 : Getting values method successfully finished.
+13-Aug-22 20:46:44 : Getting values method started.
+13-Aug-22 20:46:44 : Getting values method successfully finished.
+13-Aug-22 20:47:22 : Getting extent values method started.
+13-Aug-22 20:47:23 : Getting extent values method successfully finished.
+13-Aug-22 20:47:23 : Getting values method started.
+13-Aug-22 20:47:23 : Getting values method successfully finished.
+13-Aug-22 20:47:23 : Getting values method started.
+13-Aug-22 20:47:23 : Getting values method successfully finished.
+13-Aug-22 20:47:23 : Getting values method started.
+13-Aug-22 20:47:23 : Getting values method successfully finished.
+13-Aug-22 20:47:23 : Getting values method started.
+13-Aug-22 20:47:23 : Getting values method successfully finished.
+13-Aug-22 20:51:52 : Getting GID values method failed.
+	An item with the same key has already been added.
+13-Aug-22 20:55:02 : Getting values method started.
+13-Aug-22 20:55:02 : Getting values method successfully finished.
+13-Aug-22 20:55:07 : Getting values method started.
+13-Aug-22 20:55:07 : Getting values method successfully finished.
+13-Aug-22 20:55:13 : Getting values method started.
+13-Aug-22 20:55:13 : Getting values method successfully finished.
+13-Aug-22 20:56:32 : Getting values method started.
+13-Aug-22 20:56:33 : Getting values method successfully finished.
+13-Aug-22 20:56:33 : Getting values method started.
+13-Aug-22 20:56:33 : Getting values method successfully finished.
+13-Aug-22 20:56:33 : Getting values method started.
+13-Aug-22 20:56:33 : Getting values method successfully finished.
+13-Aug-22 20:56:33 : Getting values method started.
+13-Aug-22 20:56:33 : Getting values method successfully finished.
+13-Aug-22 20:56:33 : Getting values method started.
+13-Aug-22 20:56:33 : Getting values method successfully finished.
+13-Aug-22 20:56:33 : Getting values method started.
+13-Aug-22 20:56:33 : Getting values method successfully finished.
+13-Aug-22 20:56:33 : Getting values method started.
+13-Aug-22 20:56:33 : Getting values method successfully finished.
+13-Aug-22 20:56:33 : Getting values method started.
+13-Aug-22 20:56:33 : Getting values method successfully finished.
+13-Aug-22 20:56:34 : Getting values method started.
+13-Aug-22 20:56:34 : Getting values method successfully finished.
+13-Aug-22 20:56:34 : Getting values method started.
+13-Aug-22 20:56:34 : Getting values method successfully finished.
+13-Aug-22 20:56:39 : Getting ModelCode values method failed.
+	Invalid Model Code: 0
+13-Aug-22 20:56:44 : Getting extent values method started.
+13-Aug-22 20:56:44 : Getting extent values method successfully finished.
+13-Aug-22 20:56:44 : Getting values method started.
+13-Aug-22 20:56:44 : Getting values method successfully finished.
+13-Aug-22 20:56:44 : Getting values method started.
+13-Aug-22 20:56:44 : Getting values method successfully finished.
+13-Aug-22 20:58:01 : Getting extent values method started.
+13-Aug-22 20:58:02 : Getting extent values method successfully finished.
+13-Aug-22 20:58:02 : Getting values method started.
+13-Aug-22 20:58:02 : Getting values method successfully finished.
+13-Aug-22 20:58:02 : Getting values method started.
+13-Aug-22 20:58:02 : Getting values method successfully finished.
+13-Aug-22 20:58:02 : Getting values method started.
+13-Aug-22 20:58:02 : Getting values method successfully finished.
+13-Aug-22 20:58:02 : Getting values method started.
+13-Aug-22 20:58:02 : Getting values method successfully finished.
+13-Aug-22 20:58:02 : Getting values method started.
+13-Aug-22 20:58:02 : Getting values method successfully finished.
+13-Aug-22 20:58:02 : Getting values method started.
+13-Aug-22 20:58:02 : Getting values method successfully finished.
+13-Aug-22 20:58:02 : Getting values method started.
+13-Aug-22 20:58:02 : Getting values method successfully finished.
+13-Aug-22 20:58:48 : Getting extent values method started.
+13-Aug-22 20:58:48 : Getting extent values method successfully finished.
+13-Aug-22 20:59:11 : Getting extent values method started.
+13-Aug-22 20:59:11 : Getting extent values method successfully finished.
+13-Aug-22 20:59:11 : Getting values method started.
+13-Aug-22 20:59:11 : Getting values method successfully finished.
+13-Aug-22 20:59:11 : Getting values method started.
+13-Aug-22 20:59:11 : Getting values method successfully finished.
+13-Aug-22 20:59:15 : Getting extent values method started.
+13-Aug-22 20:59:15 : Getting extent values method successfully finished.
+13-Aug-22 20:59:15 : Getting values method started.
+13-Aug-22 20:59:15 : Getting values method successfully finished.
+13-Aug-22 20:59:15 : Getting values method started.
+13-Aug-22 20:59:15 : Getting values method successfully finished.
+13-Aug-22 20:59:15 : Getting values method started.
+13-Aug-22 20:59:15 : Getting values method successfully finished.
+13-Aug-22 20:59:15 : Getting values method started.
+13-Aug-22 20:59:15 : Getting values method successfully finished.

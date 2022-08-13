@@ -1,0 +1,1120 @@
+11-Aug-22 13:29:40 : Starting Network Model Serivice...
+11-Aug-22 13:29:41 : The WCF service GenericDataAccess is ready.
+11-Aug-22 13:29:41 : Endpoints:
+11-Aug-22 13:29:41 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11-Aug-22 13:29:41 : Connection string: ../NetworkModelData.data
+11-Aug-22 13:29:41 : Trace level: Info
+11-Aug-22 13:29:41 : The Network Model Service is started.
+11-Aug-22 13:29:41 : Press <Enter> to stop the service.
+11-Aug-22 13:31:37 : Applying  delta to network model.
+11-Aug-22 13:31:37 : Failed to fix negative to positive IDs in insert delta operations for delta with ID = 0.0 because negative reference (property code: CONNECTIVITYNODE_CONNECTIVITYNODECONTAINER, value: 0xffffffffffffffff) does not exist in insert delta operations. Resource ID = 0x0000000300000001. 
+11-Aug-22 13:31:37 : Applying delta to network model failed. Invalid insert delta operation. Negative reference (property code: CONNECTIVITYNODE_CONNECTIVITYNODECONTAINER, value: 0xffffffffffffffff) does not exist in insert delta operations. Resource ID = 0x0000000300000001. .
+11-Aug-22 13:35:16 : Starting Network Model Serivice...
+11-Aug-22 13:35:16 : The WCF service GenericDataAccess is ready.
+11-Aug-22 13:35:16 : Endpoints:
+11-Aug-22 13:35:16 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11-Aug-22 13:35:16 : Connection string: ../NetworkModelData.data
+11-Aug-22 13:35:16 : Trace level: Info
+11-Aug-22 13:35:16 : The Network Model Service is started.
+11-Aug-22 13:35:16 : Press <Enter> to stop the service.
+11-Aug-22 13:36:07 : Starting Network Model Serivice...
+11-Aug-22 13:36:08 : The WCF service GenericDataAccess is ready.
+11-Aug-22 13:36:08 : Endpoints:
+11-Aug-22 13:36:08 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11-Aug-22 13:36:08 : Connection string: ../NetworkModelData.data
+11-Aug-22 13:36:08 : Trace level: Info
+11-Aug-22 13:36:08 : The Network Model Service is started.
+11-Aug-22 13:36:08 : Press <Enter> to stop the service.
+11-Aug-22 13:40:41 : Applying  delta to network model.
+11-Aug-22 13:40:41 : Inserting entity with GID (0000000100000001).
+11-Aug-22 13:40:41 : Inserting entity with GID (0000000100000002).
+11-Aug-22 13:40:41 : Inserting entity with GID (0000000200000001).
+11-Aug-22 13:40:41 : Inserting entity with GID (0000000200000002).
+11-Aug-22 13:40:41 : Inserting entity with GID (0000000300000001).
+11-Aug-22 13:40:41 : Inserting entity with GID (0000000300000002).
+11-Aug-22 13:40:41 : Inserting entity with GID (0000000300000003).
+11-Aug-22 13:40:41 : Inserting entity with GID (0000000300000004).
+11-Aug-22 13:40:41 : Inserting entity with GID (0000000400000001).
+11-Aug-22 13:40:41 : Inserting entity with GID (0000000400000002).
+11-Aug-22 13:40:41 : Inserting entity with GID (0000000500000001).
+11-Aug-22 13:40:41 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000001).
+11-Aug-22 13:40:41 : Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000001).
+11-Aug-22 13:40:41 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000001)..
+11-Aug-22 13:44:46 : Applying  delta to network model.
+11-Aug-22 13:45:12 : Inserting entity with GID (0000000100000003).
+11-Aug-22 13:47:44 : Inserting entity with GID (0000000100000004).
+11-Aug-22 13:47:44 : Inserting entity with GID (0000000200000003).
+11-Aug-22 13:47:44 : Inserting entity with GID (0000000200000004).
+11-Aug-22 13:47:44 : Inserting entity with GID (0000000300000005).
+11-Aug-22 13:47:44 : Inserting entity with GID (0000000300000006).
+11-Aug-22 13:47:44 : Inserting entity with GID (0000000300000007).
+11-Aug-22 13:47:44 : Inserting entity with GID (0000000300000008).
+11-Aug-22 13:47:44 : Inserting entity with GID (0000000400000003).
+11-Aug-22 13:47:44 : Inserting entity with GID (0000000400000004).
+11-Aug-22 13:47:44 : Inserting entity with GID (0000000500000002).
+11-Aug-22 13:47:44 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000002).
+11-Aug-22 13:47:44 : Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000002).
+11-Aug-22 13:47:44 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000002)..
+11-Aug-22 13:52:20 : Starting Network Model Serivice...
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000100000001).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000100000002).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000200000001).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000200000002).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000300000001).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000300000002).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000300000003).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000300000004).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000400000001).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000400000002).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000500000001).
+11-Aug-22 13:52:21 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000001).
+11-Aug-22 13:52:21 : Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000001).
+11-Aug-22 13:52:21 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000001).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000100000003).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000100000004).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000200000003).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000200000004).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000300000005).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000300000006).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000300000007).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000300000008).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000400000003).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000400000004).
+11-Aug-22 13:52:21 : Inserting entity with GID (0000000500000002).
+11-Aug-22 13:52:21 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000002).
+11-Aug-22 13:52:21 : Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000002).
+11-Aug-22 13:52:21 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000002).
+11-Aug-22 13:52:22 : The WCF service GenericDataAccess is ready.
+11-Aug-22 13:52:22 : Endpoints:
+11-Aug-22 13:52:22 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11-Aug-22 13:52:22 : Connection string: ../NetworkModelData.data
+11-Aug-22 13:52:22 : Trace level: Info
+11-Aug-22 13:52:22 : The Network Model Service is started.
+11-Aug-22 13:52:22 : Press <Enter> to stop the service.
+11-Aug-22 13:52:33 : Applying  delta to network model.
+11-Aug-22 13:52:33 : Inserting entity with GID (0000000100000005).
+11-Aug-22 13:52:33 : Inserting entity with GID (0000000100000006).
+11-Aug-22 13:52:33 : Inserting entity with GID (0000000200000005).
+11-Aug-22 13:52:33 : Inserting entity with GID (0000000200000006).
+11-Aug-22 13:52:33 : Inserting entity with GID (0000000300000009).
+11-Aug-22 13:52:33 : Inserting entity with GID (000000030000000a).
+11-Aug-22 13:52:33 : Inserting entity with GID (000000030000000b).
+11-Aug-22 13:52:33 : Inserting entity with GID (000000030000000c).
+11-Aug-22 13:52:33 : Inserting entity with GID (0000000400000005).
+11-Aug-22 13:52:33 : Inserting entity with GID (0000000400000006).
+11-Aug-22 13:52:33 : Inserting entity with GID (0000000500000003).
+11-Aug-22 13:52:33 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000003).
+11-Aug-22 13:52:33 : Failed to insert entity (GID = 0x0000000500000003) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000003).
+11-Aug-22 13:52:33 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000003) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000003)..
+11-Aug-22 13:53:39 : Applying  delta to network model.
+11-Aug-22 13:53:39 : Inserting entity with GID (0000000100000007).
+11-Aug-22 13:53:39 : Inserting entity with GID (0000000100000008).
+11-Aug-22 13:53:39 : Inserting entity with GID (0000000200000007).
+11-Aug-22 13:53:39 : Inserting entity with GID (0000000200000008).
+11-Aug-22 13:53:39 : Inserting entity with GID (000000030000000d).
+11-Aug-22 13:53:39 : Inserting entity with GID (000000030000000e).
+11-Aug-22 13:53:39 : Inserting entity with GID (000000030000000f).
+11-Aug-22 13:53:39 : Inserting entity with GID (0000000300000010).
+11-Aug-22 13:53:39 : Inserting entity with GID (0000000400000007).
+11-Aug-22 13:53:39 : Inserting entity with GID (0000000400000008).
+11-Aug-22 13:53:39 : Inserting entity with GID (0000000500000004).
+11-Aug-22 13:53:39 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000004).
+11-Aug-22 13:53:39 : Failed to insert entity (GID = 0x0000000500000004) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000004).
+11-Aug-22 13:53:39 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000004) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000004)..
+11-Aug-22 13:58:27 : Starting Network Model Serivice...
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000100000001).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000100000002).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000200000001).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000200000002).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000300000001).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000300000002).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000300000003).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000300000004).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000400000001).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000400000002).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000500000001).
+11-Aug-22 13:58:27 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000001).
+11-Aug-22 13:58:27 : Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000001).
+11-Aug-22 13:58:27 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000001).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000100000003).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000100000004).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000200000003).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000200000004).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000300000005).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000300000006).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000300000007).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000300000008).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000400000003).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000400000004).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000500000002).
+11-Aug-22 13:58:27 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000002).
+11-Aug-22 13:58:27 : Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000002).
+11-Aug-22 13:58:27 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000002).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000100000005).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000100000006).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000200000005).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000200000006).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000300000009).
+11-Aug-22 13:58:27 : Inserting entity with GID (000000030000000a).
+11-Aug-22 13:58:27 : Inserting entity with GID (000000030000000b).
+11-Aug-22 13:58:27 : Inserting entity with GID (000000030000000c).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000400000005).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000400000006).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000500000003).
+11-Aug-22 13:58:27 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000003).
+11-Aug-22 13:58:27 : Failed to insert entity (GID = 0x0000000500000003) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000003).
+11-Aug-22 13:58:27 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000500000003) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000003).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000100000007).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000100000008).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000200000007).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000200000008).
+11-Aug-22 13:58:27 : Inserting entity with GID (000000030000000d).
+11-Aug-22 13:58:27 : Inserting entity with GID (000000030000000e).
+11-Aug-22 13:58:27 : Inserting entity with GID (000000030000000f).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000300000010).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000400000007).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000400000008).
+11-Aug-22 13:58:27 : Inserting entity with GID (0000000500000004).
+11-Aug-22 13:58:27 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000004).
+11-Aug-22 13:58:27 : Failed to insert entity (GID = 0x0000000500000004) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000004).
+11-Aug-22 13:58:27 : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000500000004) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000004).
+11-Aug-22 13:58:28 : The WCF service GenericDataAccess is ready.
+11-Aug-22 13:58:28 : Endpoints:
+11-Aug-22 13:58:28 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11-Aug-22 13:58:28 : Connection string: ../NetworkModelData.data
+11-Aug-22 13:58:28 : Trace level: Info
+11-Aug-22 13:58:28 : The Network Model Service is started.
+11-Aug-22 13:58:28 : Press <Enter> to stop the service.
+11-Aug-22 13:58:44 : Applying  delta to network model.
+11-Aug-22 13:58:44 : Inserting entity with GID (0000000100000009).
+11-Aug-22 13:58:44 : Inserting entity with GID (000000010000000a).
+11-Aug-22 13:58:44 : Inserting entity with GID (0000000200000009).
+11-Aug-22 13:58:44 : Inserting entity with GID (000000020000000a).
+11-Aug-22 13:58:44 : Inserting entity with GID (0000000300000011).
+11-Aug-22 13:58:44 : Inserting entity with GID (0000000300000012).
+11-Aug-22 13:58:44 : Inserting entity with GID (0000000300000013).
+11-Aug-22 13:58:44 : Inserting entity with GID (0000000300000014).
+11-Aug-22 13:58:44 : Inserting entity with GID (0000000400000009).
+11-Aug-22 13:58:44 : Inserting entity with GID (000000040000000a).
+11-Aug-22 13:58:44 : Inserting entity with GID (0000000500000005).
+11-Aug-22 13:58:44 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000005).
+11-Aug-22 13:58:44 : Failed to insert entity (GID = 0x0000000500000005) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000005).
+11-Aug-22 13:58:44 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000005) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000005)..
+11-Aug-22 13:59:31 : Applying  delta to network model.
+11-Aug-22 13:59:31 : Inserting entity with GID (000000010000000b).
+11-Aug-22 13:59:31 : Inserting entity with GID (000000010000000c).
+11-Aug-22 13:59:31 : Inserting entity with GID (000000020000000b).
+11-Aug-22 13:59:31 : Inserting entity with GID (000000020000000c).
+11-Aug-22 13:59:31 : Inserting entity with GID (0000000300000015).
+11-Aug-22 13:59:31 : Inserting entity with GID (0000000300000016).
+11-Aug-22 13:59:31 : Inserting entity with GID (0000000300000017).
+11-Aug-22 13:59:31 : Inserting entity with GID (0000000300000018).
+11-Aug-22 13:59:31 : Inserting entity with GID (000000040000000b).
+11-Aug-22 13:59:31 : Inserting entity with GID (000000040000000c).
+11-Aug-22 13:59:31 : Inserting entity with GID (0000000500000006).
+11-Aug-22 13:59:31 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000006).
+11-Aug-22 13:59:31 : Failed to insert entity (GID = 0x0000000500000006) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000006).
+11-Aug-22 14:00:55 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000006) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000006)..
+11-Aug-22 14:01:05 : Applying  delta to network model.
+11-Aug-22 14:02:16 : Inserting entity with GID (000000010000000d).
+11-Aug-22 14:02:19 : Inserting entity with GID (000000010000000e).
+11-Aug-22 14:02:23 : Inserting entity with GID (000000020000000d).
+11-Aug-22 14:02:23 : Inserting entity with GID (000000020000000e).
+11-Aug-22 14:02:23 : Inserting entity with GID (0000000300000019).
+11-Aug-22 14:02:23 : Inserting entity with GID (000000030000001a).
+11-Aug-22 14:02:23 : Inserting entity with GID (000000030000001b).
+11-Aug-22 14:02:23 : Inserting entity with GID (000000030000001c).
+11-Aug-22 14:02:23 : Inserting entity with GID (000000040000000d).
+11-Aug-22 14:02:23 : Inserting entity with GID (000000040000000e).
+11-Aug-22 14:03:21 : Inserting entity with GID (0000000500000007).
+11-Aug-22 14:07:31 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000007).
+11-Aug-22 14:07:31 : Failed to insert entity (GID = 0x0000000500000007) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000007).
+11-Aug-22 14:14:31 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000007) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000007)..
+11-Aug-22 14:19:51 : Starting Network Model Serivice...
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000100000001).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000100000002).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000200000001).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000200000002).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000001).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000002).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000003).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000004).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000400000001).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000400000002).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000500000001).
+11-Aug-22 14:19:52 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000001).
+11-Aug-22 14:19:52 : Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000001).
+11-Aug-22 14:19:52 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000001).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000100000003).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000100000004).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000200000003).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000200000004).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000005).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000006).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000007).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000008).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000400000003).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000400000004).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000500000002).
+11-Aug-22 14:19:52 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000002).
+11-Aug-22 14:19:52 : Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000002).
+11-Aug-22 14:19:52 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000002).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000100000005).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000100000006).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000200000005).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000200000006).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000009).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000030000000a).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000030000000b).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000030000000c).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000400000005).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000400000006).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000500000003).
+11-Aug-22 14:19:52 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000003).
+11-Aug-22 14:19:52 : Failed to insert entity (GID = 0x0000000500000003) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000003).
+11-Aug-22 14:19:52 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000500000003) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000003).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000100000007).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000100000008).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000200000007).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000200000008).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000030000000d).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000030000000e).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000030000000f).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000010).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000400000007).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000400000008).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000500000004).
+11-Aug-22 14:19:52 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000004).
+11-Aug-22 14:19:52 : Failed to insert entity (GID = 0x0000000500000004) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000004).
+11-Aug-22 14:19:52 : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000500000004) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000004).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000100000009).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000010000000a).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000200000009).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000020000000a).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000011).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000012).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000013).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000014).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000400000009).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000040000000a).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000500000005).
+11-Aug-22 14:19:52 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000005).
+11-Aug-22 14:19:52 : Failed to insert entity (GID = 0x0000000500000005) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000005).
+11-Aug-22 14:19:52 : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000500000005) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000005).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000010000000b).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000010000000c).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000020000000b).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000020000000c).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000015).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000016).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000017).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000018).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000040000000b).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000040000000c).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000500000006).
+11-Aug-22 14:19:52 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000006).
+11-Aug-22 14:19:52 : Failed to insert entity (GID = 0x0000000500000006) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000006).
+11-Aug-22 14:19:52 : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000500000006) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000006).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000010000000d).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000010000000e).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000020000000d).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000020000000e).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000300000019).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000030000001a).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000030000001b).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000030000001c).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000040000000d).
+11-Aug-22 14:19:52 : Inserting entity with GID (000000040000000e).
+11-Aug-22 14:19:52 : Inserting entity with GID (0000000500000007).
+11-Aug-22 14:19:52 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000007).
+11-Aug-22 14:19:52 : Failed to insert entity (GID = 0x0000000500000007) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000007).
+11-Aug-22 14:19:52 : Error while applying delta (id = 7) during service initialization. Failed to insert entity (GID = 0x0000000500000007) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000007).
+11-Aug-22 14:19:52 : The WCF service GenericDataAccess is ready.
+11-Aug-22 14:19:52 : Endpoints:
+11-Aug-22 14:19:52 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11-Aug-22 14:19:52 : Connection string: ../NetworkModelData.data
+11-Aug-22 14:19:52 : Trace level: Info
+11-Aug-22 14:19:52 : The Network Model Service is started.
+11-Aug-22 14:19:52 : Press <Enter> to stop the service.
+11-Aug-22 14:20:00 : Applying  delta to network model.
+11-Aug-22 14:20:00 : Inserting entity with GID (000000010000000f).
+11-Aug-22 14:20:00 : Inserting entity with GID (0000000100000010).
+11-Aug-22 14:20:00 : Inserting entity with GID (000000020000000f).
+11-Aug-22 14:20:00 : Inserting entity with GID (0000000200000010).
+11-Aug-22 14:20:00 : Inserting entity with GID (000000030000001d).
+11-Aug-22 14:20:00 : Inserting entity with GID (000000030000001e).
+11-Aug-22 14:20:00 : Inserting entity with GID (000000030000001f).
+11-Aug-22 14:20:00 : Inserting entity with GID (0000000300000020).
+11-Aug-22 14:20:00 : Inserting entity with GID (000000040000000f).
+11-Aug-22 14:20:00 : Inserting entity with GID (0000000400000010).
+11-Aug-22 14:20:00 : Inserting entity with GID (0000000500000008).
+11-Aug-22 14:20:00 : Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000008).
+11-Aug-22 14:20:00 : Failed to insert entity (GID = 0x0000000500000008) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000008).
+11-Aug-22 14:20:00 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000008) into model. Unknown property id = SWITCH_NORMALOPEN for entity (GID = 0x0000000500000008)..
+11-Aug-22 14:22:05 : Starting Network Model Serivice...
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000100000001).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000100000002).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000200000001).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000200000002).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000300000001).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000300000002).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000300000003).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000300000004).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000400000001).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000400000002).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000500000001).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000500000002).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000500000003).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000500000004).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000600000001).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000600000002).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000600000003).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000600000004).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000100000003).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000100000004).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000200000003).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000200000004).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000300000005).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000300000006).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000300000007).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000300000008).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000400000003).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000400000004).
+11-Aug-22 14:22:05 : Inserting entity with GID (0000000500000002).
+11-Aug-22 14:22:05 : Failed to insert entity because entity with specified GID (0000000500000002) already exists in network model.
+11-Aug-22 14:22:06 : Error while applying delta (id = 2) during service initialization. Failed to insert entity because entity with specified GID (0000000500000002) already exists in network model.
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000100000005).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000100000006).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000200000005).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000200000006).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000300000009).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000030000000a).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000030000000b).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000030000000c).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000400000005).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000400000006).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000500000003).
+11-Aug-22 14:22:06 : Failed to insert entity because entity with specified GID (0000000500000003) already exists in network model.
+11-Aug-22 14:22:06 : Error while applying delta (id = 3) during service initialization. Failed to insert entity because entity with specified GID (0000000500000003) already exists in network model.
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000100000007).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000100000008).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000200000007).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000200000008).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000030000000d).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000030000000e).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000030000000f).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000300000010).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000400000007).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000400000008).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000500000004).
+11-Aug-22 14:22:06 : Failed to insert entity because entity with specified GID (0000000500000004) already exists in network model.
+11-Aug-22 14:22:06 : Error while applying delta (id = 4) during service initialization. Failed to insert entity because entity with specified GID (0000000500000004) already exists in network model.
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000100000009).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000010000000a).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000200000009).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000020000000a).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000300000011).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000300000012).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000300000013).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000300000014).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000400000009).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000040000000a).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000500000005).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000500000006).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000500000007).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000500000008).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000600000001).
+11-Aug-22 14:22:06 : Failed to insert entity because entity with specified GID (0000000600000001) already exists in network model.
+11-Aug-22 14:22:06 : Error while applying delta (id = 5) during service initialization. Failed to insert entity because entity with specified GID (0000000600000001) already exists in network model.
+11-Aug-22 14:22:06 : Inserting entity with GID (000000010000000b).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000010000000c).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000020000000b).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000020000000c).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000300000015).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000300000016).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000300000017).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000300000018).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000040000000b).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000040000000c).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000500000006).
+11-Aug-22 14:22:06 : Failed to insert entity because entity with specified GID (0000000500000006) already exists in network model.
+11-Aug-22 14:22:06 : Error while applying delta (id = 6) during service initialization. Failed to insert entity because entity with specified GID (0000000500000006) already exists in network model.
+11-Aug-22 14:22:06 : Inserting entity with GID (000000010000000d).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000010000000e).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000020000000d).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000020000000e).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000300000019).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000030000001a).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000030000001b).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000030000001c).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000040000000d).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000040000000e).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000500000007).
+11-Aug-22 14:22:06 : Failed to insert entity because entity with specified GID (0000000500000007) already exists in network model.
+11-Aug-22 14:22:06 : Error while applying delta (id = 7) during service initialization. Failed to insert entity because entity with specified GID (0000000500000007) already exists in network model.
+11-Aug-22 14:22:06 : Inserting entity with GID (000000010000000f).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000100000010).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000020000000f).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000200000010).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000030000001d).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000030000001e).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000030000001f).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000300000020).
+11-Aug-22 14:22:06 : Inserting entity with GID (000000040000000f).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000400000010).
+11-Aug-22 14:22:06 : Inserting entity with GID (0000000500000008).
+11-Aug-22 14:22:06 : Failed to insert entity because entity with specified GID (0000000500000008) already exists in network model.
+11-Aug-22 14:22:06 : Error while applying delta (id = 8) during service initialization. Failed to insert entity because entity with specified GID (0000000500000008) already exists in network model.
+11-Aug-22 14:22:06 : The WCF service GenericDataAccess is ready.
+11-Aug-22 14:22:06 : Endpoints:
+11-Aug-22 14:22:06 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11-Aug-22 14:22:06 : Connection string: ../NetworkModelData.data
+11-Aug-22 14:22:06 : Trace level: Info
+11-Aug-22 14:22:06 : The Network Model Service is started.
+11-Aug-22 14:22:06 : Press <Enter> to stop the service.
+11-Aug-22 14:22:13 : Applying  delta to network model.
+11-Aug-22 14:22:13 : Inserting entity with GID (0000000100000011).
+11-Aug-22 14:22:13 : Inserting entity with GID (0000000100000012).
+11-Aug-22 14:22:13 : Inserting entity with GID (0000000200000011).
+11-Aug-22 14:22:13 : Inserting entity with GID (0000000200000012).
+11-Aug-22 14:22:13 : Inserting entity with GID (0000000300000021).
+11-Aug-22 14:22:13 : Inserting entity with GID (0000000300000022).
+11-Aug-22 14:22:13 : Inserting entity with GID (0000000300000023).
+11-Aug-22 14:22:13 : Inserting entity with GID (0000000300000024).
+11-Aug-22 14:22:13 : Inserting entity with GID (0000000400000011).
+11-Aug-22 14:22:13 : Inserting entity with GID (0000000400000012).
+11-Aug-22 14:22:13 : Inserting entity with GID (0000000500000009).
+11-Aug-22 14:22:13 : Inserting entity with GID (000000050000000a).
+11-Aug-22 14:22:13 : Inserting entity with GID (000000050000000b).
+11-Aug-22 14:22:13 : Inserting entity with GID (000000050000000c).
+11-Aug-22 14:22:13 : Inserting entity with GID (0000000600000005).
+11-Aug-22 14:22:13 : Inserting entity with GID (0000000600000006).
+11-Aug-22 14:22:13 : Inserting entity with GID (0000000600000007).
+11-Aug-22 14:22:13 : Inserting entity with GID (0000000600000008).
+11-Aug-22 14:22:13 : Applying delta to network model successfully finished.
+11-Aug-22 15:18:51 : Starting Network Model Serivice...
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000100000001).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000100000002).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000200000001).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000200000002).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000001).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000002).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000003).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000004).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000400000001).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000400000002).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000500000001).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000500000002).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000500000003).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000500000004).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000600000001).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000600000002).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000600000003).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000600000004).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000100000003).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000100000004).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000200000003).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000200000004).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000005).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000006).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000007).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000008).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000400000003).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000400000004).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000500000002).
+11-Aug-22 15:18:52 : Failed to insert entity because entity with specified GID (0000000500000002) already exists in network model.
+11-Aug-22 15:18:52 : Error while applying delta (id = 2) during service initialization. Failed to insert entity because entity with specified GID (0000000500000002) already exists in network model.
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000100000005).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000100000006).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000200000005).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000200000006).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000009).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000030000000a).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000030000000b).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000030000000c).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000400000005).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000400000006).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000500000003).
+11-Aug-22 15:18:52 : Failed to insert entity because entity with specified GID (0000000500000003) already exists in network model.
+11-Aug-22 15:18:52 : Error while applying delta (id = 3) during service initialization. Failed to insert entity because entity with specified GID (0000000500000003) already exists in network model.
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000100000007).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000100000008).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000200000007).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000200000008).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000030000000d).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000030000000e).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000030000000f).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000010).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000400000007).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000400000008).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000500000004).
+11-Aug-22 15:18:52 : Failed to insert entity because entity with specified GID (0000000500000004) already exists in network model.
+11-Aug-22 15:18:52 : Error while applying delta (id = 4) during service initialization. Failed to insert entity because entity with specified GID (0000000500000004) already exists in network model.
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000100000009).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000010000000a).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000200000009).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000020000000a).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000011).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000012).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000013).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000014).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000400000009).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000040000000a).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000500000005).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000500000006).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000500000007).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000500000008).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000600000001).
+11-Aug-22 15:18:52 : Failed to insert entity because entity with specified GID (0000000600000001) already exists in network model.
+11-Aug-22 15:18:52 : Error while applying delta (id = 5) during service initialization. Failed to insert entity because entity with specified GID (0000000600000001) already exists in network model.
+11-Aug-22 15:18:52 : Inserting entity with GID (000000010000000b).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000010000000c).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000020000000b).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000020000000c).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000015).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000016).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000017).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000018).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000040000000b).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000040000000c).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000500000006).
+11-Aug-22 15:18:52 : Failed to insert entity because entity with specified GID (0000000500000006) already exists in network model.
+11-Aug-22 15:18:52 : Error while applying delta (id = 6) during service initialization. Failed to insert entity because entity with specified GID (0000000500000006) already exists in network model.
+11-Aug-22 15:18:52 : Inserting entity with GID (000000010000000d).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000010000000e).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000020000000d).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000020000000e).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000019).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000030000001a).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000030000001b).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000030000001c).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000040000000d).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000040000000e).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000500000007).
+11-Aug-22 15:18:52 : Failed to insert entity because entity with specified GID (0000000500000007) already exists in network model.
+11-Aug-22 15:18:52 : Error while applying delta (id = 7) during service initialization. Failed to insert entity because entity with specified GID (0000000500000007) already exists in network model.
+11-Aug-22 15:18:52 : Inserting entity with GID (000000010000000f).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000100000010).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000020000000f).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000200000010).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000030000001d).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000030000001e).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000030000001f).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000020).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000040000000f).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000400000010).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000500000008).
+11-Aug-22 15:18:52 : Failed to insert entity because entity with specified GID (0000000500000008) already exists in network model.
+11-Aug-22 15:18:52 : Error while applying delta (id = 8) during service initialization. Failed to insert entity because entity with specified GID (0000000500000008) already exists in network model.
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000100000011).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000100000012).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000200000011).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000200000012).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000021).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000022).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000023).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000300000024).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000400000011).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000400000012).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000500000009).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000050000000a).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000050000000b).
+11-Aug-22 15:18:52 : Inserting entity with GID (000000050000000c).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000600000005).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000600000006).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000600000007).
+11-Aug-22 15:18:52 : Inserting entity with GID (0000000600000008).
+11-Aug-22 15:18:52 : The WCF service GenericDataAccess is ready.
+11-Aug-22 15:18:52 : Endpoints:
+11-Aug-22 15:18:52 : net.tcp://localhost:10000/NetworkModelService/GDA/
+11-Aug-22 15:18:52 : Connection string: ../NetworkModelData.data
+11-Aug-22 15:18:52 : Trace level: Info
+11-Aug-22 15:18:52 : The Network Model Service is started.
+11-Aug-22 15:18:52 : Press <Enter> to stop the service.
+11-Aug-22 15:19:20 : Applying  delta to network model.
+11-Aug-22 15:19:20 : Inserting entity with GID (0000000100000013).
+11-Aug-22 15:19:20 : Inserting entity with GID (0000000100000014).
+11-Aug-22 15:19:20 : Inserting entity with GID (0000000200000013).
+11-Aug-22 15:19:20 : Inserting entity with GID (0000000200000014).
+11-Aug-22 15:19:20 : Inserting entity with GID (0000000300000025).
+11-Aug-22 15:19:20 : Inserting entity with GID (0000000300000026).
+11-Aug-22 15:19:20 : Inserting entity with GID (0000000300000027).
+11-Aug-22 15:19:20 : Inserting entity with GID (0000000300000028).
+11-Aug-22 15:19:20 : Inserting entity with GID (0000000400000013).
+11-Aug-22 15:19:20 : Inserting entity with GID (0000000400000014).
+11-Aug-22 15:19:20 : Inserting entity with GID (000000050000000d).
+11-Aug-22 15:19:20 : Inserting entity with GID (000000050000000e).
+11-Aug-22 15:19:20 : Inserting entity with GID (000000050000000f).
+11-Aug-22 15:19:20 : Inserting entity with GID (0000000500000010).
+11-Aug-22 15:19:20 : Inserting entity with GID (0000000600000009).
+11-Aug-22 15:19:20 : Inserting entity with GID (000000060000000a).
+11-Aug-22 15:19:20 : Inserting entity with GID (000000060000000b).
+11-Aug-22 15:19:20 : Inserting entity with GID (000000060000000c).
+11-Aug-22 15:19:20 : Applying delta to network model successfully finished.
+13-Aug-22 20:31:58 : Starting Network Model Serivice...
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000100000001).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000100000002).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000200000001).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000200000002).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000300000001).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000300000002).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000300000003).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000300000004).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000400000001).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000400000002).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000500000001).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000500000002).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000500000003).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000500000004).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000600000001).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000600000002).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000600000003).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000600000004).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000100000003).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000100000004).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000200000003).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000200000004).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000300000005).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000300000006).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000300000007).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000300000008).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000400000003).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000400000004).
+13-Aug-22 20:31:58 : Inserting entity with GID (0000000500000002).
+13-Aug-22 20:31:58 : Failed to insert entity because entity with specified GID (0000000500000002) already exists in network model.
+13-Aug-22 20:31:59 : Error while applying delta (id = 2) during service initialization. Failed to insert entity because entity with specified GID (0000000500000002) already exists in network model.
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000100000005).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000100000006).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000200000005).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000200000006).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000009).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000030000000a).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000030000000b).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000030000000c).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000400000005).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000400000006).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000500000003).
+13-Aug-22 20:31:59 : Failed to insert entity because entity with specified GID (0000000500000003) already exists in network model.
+13-Aug-22 20:31:59 : Error while applying delta (id = 3) during service initialization. Failed to insert entity because entity with specified GID (0000000500000003) already exists in network model.
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000100000007).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000100000008).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000200000007).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000200000008).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000030000000d).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000030000000e).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000030000000f).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000010).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000400000007).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000400000008).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000500000004).
+13-Aug-22 20:31:59 : Failed to insert entity because entity with specified GID (0000000500000004) already exists in network model.
+13-Aug-22 20:31:59 : Error while applying delta (id = 4) during service initialization. Failed to insert entity because entity with specified GID (0000000500000004) already exists in network model.
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000100000009).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000010000000a).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000200000009).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000020000000a).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000011).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000012).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000013).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000014).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000400000009).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000040000000a).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000500000005).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000500000006).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000500000007).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000500000008).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000600000001).
+13-Aug-22 20:31:59 : Failed to insert entity because entity with specified GID (0000000600000001) already exists in network model.
+13-Aug-22 20:31:59 : Error while applying delta (id = 5) during service initialization. Failed to insert entity because entity with specified GID (0000000600000001) already exists in network model.
+13-Aug-22 20:31:59 : Inserting entity with GID (000000010000000b).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000010000000c).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000020000000b).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000020000000c).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000015).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000016).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000017).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000018).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000040000000b).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000040000000c).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000500000006).
+13-Aug-22 20:31:59 : Failed to insert entity because entity with specified GID (0000000500000006) already exists in network model.
+13-Aug-22 20:31:59 : Error while applying delta (id = 6) during service initialization. Failed to insert entity because entity with specified GID (0000000500000006) already exists in network model.
+13-Aug-22 20:31:59 : Inserting entity with GID (000000010000000d).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000010000000e).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000020000000d).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000020000000e).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000019).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000030000001a).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000030000001b).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000030000001c).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000040000000d).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000040000000e).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000500000007).
+13-Aug-22 20:31:59 : Failed to insert entity because entity with specified GID (0000000500000007) already exists in network model.
+13-Aug-22 20:31:59 : Error while applying delta (id = 7) during service initialization. Failed to insert entity because entity with specified GID (0000000500000007) already exists in network model.
+13-Aug-22 20:31:59 : Inserting entity with GID (000000010000000f).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000100000010).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000020000000f).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000200000010).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000030000001d).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000030000001e).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000030000001f).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000020).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000040000000f).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000400000010).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000500000008).
+13-Aug-22 20:31:59 : Failed to insert entity because entity with specified GID (0000000500000008) already exists in network model.
+13-Aug-22 20:31:59 : Error while applying delta (id = 8) during service initialization. Failed to insert entity because entity with specified GID (0000000500000008) already exists in network model.
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000100000011).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000100000012).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000200000011).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000200000012).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000021).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000022).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000023).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000024).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000400000011).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000400000012).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000500000009).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000050000000a).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000050000000b).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000050000000c).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000600000005).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000600000006).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000600000007).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000600000008).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000100000013).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000100000014).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000200000013).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000200000014).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000025).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000026).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000027).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000300000028).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000400000013).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000400000014).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000050000000d).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000050000000e).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000050000000f).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000500000010).
+13-Aug-22 20:31:59 : Inserting entity with GID (0000000600000009).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000060000000a).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000060000000b).
+13-Aug-22 20:31:59 : Inserting entity with GID (000000060000000c).
+13-Aug-22 20:31:59 : The WCF service GenericDataAccess is ready.
+13-Aug-22 20:31:59 : Endpoints:
+13-Aug-22 20:31:59 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Aug-22 20:31:59 : Connection string: ../NetworkModelData.data
+13-Aug-22 20:31:59 : Trace level: Info
+13-Aug-22 20:31:59 : The Network Model Service is started.
+13-Aug-22 20:31:59 : Press <Enter> to stop the service.
+13-Aug-22 20:33:58 : Starting Network Model Serivice...
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000100000001).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000100000002).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000200000001).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000200000002).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000001).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000002).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000003).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000004).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000400000001).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000400000002).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000500000001).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000500000002).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000500000003).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000500000004).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000600000001).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000600000002).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000600000003).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000600000004).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000100000003).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000100000004).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000200000003).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000200000004).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000005).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000006).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000007).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000008).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000400000003).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000400000004).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000500000002).
+13-Aug-22 20:33:58 : Failed to insert entity because entity with specified GID (0000000500000002) already exists in network model.
+13-Aug-22 20:33:58 : Error while applying delta (id = 2) during service initialization. Failed to insert entity because entity with specified GID (0000000500000002) already exists in network model.
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000100000005).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000100000006).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000200000005).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000200000006).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000009).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000030000000a).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000030000000b).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000030000000c).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000400000005).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000400000006).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000500000003).
+13-Aug-22 20:33:58 : Failed to insert entity because entity with specified GID (0000000500000003) already exists in network model.
+13-Aug-22 20:33:58 : Error while applying delta (id = 3) during service initialization. Failed to insert entity because entity with specified GID (0000000500000003) already exists in network model.
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000100000007).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000100000008).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000200000007).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000200000008).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000030000000d).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000030000000e).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000030000000f).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000010).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000400000007).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000400000008).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000500000004).
+13-Aug-22 20:33:58 : Failed to insert entity because entity with specified GID (0000000500000004) already exists in network model.
+13-Aug-22 20:33:58 : Error while applying delta (id = 4) during service initialization. Failed to insert entity because entity with specified GID (0000000500000004) already exists in network model.
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000100000009).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000010000000a).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000200000009).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000020000000a).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000011).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000012).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000013).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000014).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000400000009).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000040000000a).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000500000005).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000500000006).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000500000007).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000500000008).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000600000001).
+13-Aug-22 20:33:58 : Failed to insert entity because entity with specified GID (0000000600000001) already exists in network model.
+13-Aug-22 20:33:58 : Error while applying delta (id = 5) during service initialization. Failed to insert entity because entity with specified GID (0000000600000001) already exists in network model.
+13-Aug-22 20:33:58 : Inserting entity with GID (000000010000000b).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000010000000c).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000020000000b).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000020000000c).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000015).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000016).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000017).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000018).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000040000000b).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000040000000c).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000500000006).
+13-Aug-22 20:33:58 : Failed to insert entity because entity with specified GID (0000000500000006) already exists in network model.
+13-Aug-22 20:33:58 : Error while applying delta (id = 6) during service initialization. Failed to insert entity because entity with specified GID (0000000500000006) already exists in network model.
+13-Aug-22 20:33:58 : Inserting entity with GID (000000010000000d).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000010000000e).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000020000000d).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000020000000e).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000019).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000030000001a).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000030000001b).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000030000001c).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000040000000d).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000040000000e).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000500000007).
+13-Aug-22 20:33:58 : Failed to insert entity because entity with specified GID (0000000500000007) already exists in network model.
+13-Aug-22 20:33:58 : Error while applying delta (id = 7) during service initialization. Failed to insert entity because entity with specified GID (0000000500000007) already exists in network model.
+13-Aug-22 20:33:58 : Inserting entity with GID (000000010000000f).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000100000010).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000020000000f).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000200000010).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000030000001d).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000030000001e).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000030000001f).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000020).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000040000000f).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000400000010).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000500000008).
+13-Aug-22 20:33:58 : Failed to insert entity because entity with specified GID (0000000500000008) already exists in network model.
+13-Aug-22 20:33:58 : Error while applying delta (id = 8) during service initialization. Failed to insert entity because entity with specified GID (0000000500000008) already exists in network model.
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000100000011).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000100000012).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000200000011).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000200000012).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000021).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000022).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000023).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000024).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000400000011).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000400000012).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000500000009).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000050000000a).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000050000000b).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000050000000c).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000600000005).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000600000006).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000600000007).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000600000008).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000100000013).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000100000014).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000200000013).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000200000014).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000025).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000026).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000027).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000300000028).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000400000013).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000400000014).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000050000000d).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000050000000e).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000050000000f).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000500000010).
+13-Aug-22 20:33:58 : Inserting entity with GID (0000000600000009).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000060000000a).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000060000000b).
+13-Aug-22 20:33:58 : Inserting entity with GID (000000060000000c).
+13-Aug-22 20:33:58 : The WCF service GenericDataAccess is ready.
+13-Aug-22 20:33:58 : Endpoints:
+13-Aug-22 20:33:58 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Aug-22 20:33:58 : Connection string: ../NetworkModelData.data
+13-Aug-22 20:33:58 : Trace level: Info
+13-Aug-22 20:33:58 : The Network Model Service is started.
+13-Aug-22 20:33:58 : Press <Enter> to stop the service.
+13-Aug-22 20:36:19 : Starting Network Model Serivice...
+13-Aug-22 20:36:20 : The WCF service GenericDataAccess is ready.
+13-Aug-22 20:36:20 : Endpoints:
+13-Aug-22 20:36:20 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Aug-22 20:36:20 : Connection string: ../NetworkModelData.data
+13-Aug-22 20:36:20 : Trace level: Info
+13-Aug-22 20:36:20 : The Network Model Service is started.
+13-Aug-22 20:36:20 : Press <Enter> to stop the service.
+13-Aug-22 20:36:39 : Applying  delta to network model.
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000100000001).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000100000002).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000200000001).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000200000002).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000300000001).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000300000002).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000300000003).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000300000004).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000400000001).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000400000002).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000500000001).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000500000002).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000500000003).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000500000004).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000600000001).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000600000002).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000600000003).
+13-Aug-22 20:36:39 : Inserting entity with GID (0000000600000004).
+13-Aug-22 20:36:39 : Applying delta to network model successfully finished.
+13-Aug-22 20:37:27 : Starting Network Model Serivice...
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000100000001).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000100000002).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000200000001).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000200000002).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000300000001).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000300000002).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000300000003).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000300000004).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000400000001).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000400000002).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000500000001).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000500000002).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000500000003).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000500000004).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000600000001).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000600000002).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000600000003).
+13-Aug-22 20:37:27 : Inserting entity with GID (0000000600000004).
+13-Aug-22 20:37:28 : The WCF service GenericDataAccess is ready.
+13-Aug-22 20:37:28 : Endpoints:
+13-Aug-22 20:37:28 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Aug-22 20:37:28 : Connection string: ../NetworkModelData.data
+13-Aug-22 20:37:28 : Trace level: Info
+13-Aug-22 20:37:28 : The Network Model Service is started.
+13-Aug-22 20:37:28 : Press <Enter> to stop the service.
+13-Aug-22 20:54:47 : Starting Network Model Serivice...
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000100000001).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000100000002).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000200000001).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000200000002).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000300000001).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000300000002).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000300000003).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000300000004).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000400000001).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000400000002).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000500000001).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000500000002).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000500000003).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000500000004).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000600000001).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000600000002).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000600000003).
+13-Aug-22 20:54:47 : Inserting entity with GID (0000000600000004).
+13-Aug-22 20:54:47 : The WCF service GenericDataAccess is ready.
+13-Aug-22 20:54:47 : Endpoints:
+13-Aug-22 20:54:47 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Aug-22 20:54:47 : Connection string: ../NetworkModelData.data
+13-Aug-22 20:54:47 : Trace level: Info
+13-Aug-22 20:54:47 : The Network Model Service is started.
+13-Aug-22 20:54:47 : Press <Enter> to stop the service.
+13-Aug-22 20:57:00 : Starting Network Model Serivice...
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000100000001).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000100000002).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000200000001).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000200000002).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000300000001).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000300000002).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000300000003).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000300000004).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000400000001).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000400000002).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000500000001).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000500000002).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000500000003).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000500000004).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000600000001).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000600000002).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000600000003).
+13-Aug-22 20:57:00 : Inserting entity with GID (0000000600000004).
+13-Aug-22 20:57:00 : The WCF service GenericDataAccess is ready.
+13-Aug-22 20:57:00 : Endpoints:
+13-Aug-22 20:57:00 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Aug-22 20:57:00 : Connection string: ../NetworkModelData.data
+13-Aug-22 20:57:00 : Trace level: Info
+13-Aug-22 20:57:00 : The Network Model Service is started.
+13-Aug-22 20:57:01 : Press <Enter> to stop the service.
+13-Aug-22 20:57:35 : Applying  delta to network model.
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000100000003).
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000100000004).
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000200000003).
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000200000004).
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000300000005).
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000300000006).
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000300000007).
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000300000008).
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000400000003).
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000400000004).
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000500000005).
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000500000006).
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000500000007).
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000600000005).
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000600000006).
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000600000007).
+13-Aug-22 20:57:35 : Inserting entity with GID (0000000600000008).
+13-Aug-22 20:57:35 : Applying delta to network model successfully finished.
+13-Aug-22 20:58:34 : Starting Network Model Serivice...
+13-Aug-22 20:58:34 : The WCF service GenericDataAccess is ready.
+13-Aug-22 20:58:34 : Endpoints:
+13-Aug-22 20:58:34 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Aug-22 20:58:34 : Connection string: ../NetworkModelData.data
+13-Aug-22 20:58:34 : Trace level: Info
+13-Aug-22 20:58:34 : The Network Model Service is started.
+13-Aug-22 20:58:34 : Press <Enter> to stop the service.
+13-Aug-22 20:59:02 : Applying  delta to network model.
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000100000001).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000100000002).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000200000001).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000200000002).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000300000001).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000300000002).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000300000003).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000300000004).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000400000001).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000400000002).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000500000001).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000500000002).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000500000003).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000500000004).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000600000001).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000600000002).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000600000003).
+13-Aug-22 20:59:02 : Inserting entity with GID (0000000600000004).
+13-Aug-22 20:59:02 : Applying delta to network model successfully finished.

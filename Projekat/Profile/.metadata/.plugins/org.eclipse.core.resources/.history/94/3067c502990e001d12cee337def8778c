@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:cims="http://iec.ch/TC57/1999/rdf-schema-extensions-19990926#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:msg="http://langdale.com.au/2005/Message#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:uml="http://langdale.com.au/2005/UML#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xml:base="http://iec.ch/TC57/2010/CIM-schema-cim15" > 
+  <rdf:Description rdf:about="#Package_Wires">
+    <cims:belongsToCategory rdf:resource="#Package_IEC61970"/>
+    <rdfs:comment>An extension to the Core and Topology package that models information on the electrical characteristics of Transmission and Distribution networks. This package is used by network applications such as State Estimation, Load Flow and Optimal Power Flow.</rdfs:comment>
+    <rdfs:label>Wires</rdfs:label>
+    <rdf:type rdf:resource="http://iec.ch/TC57/1999/rdf-schema-extensions-19990926#ClassCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Switch">
+    <rdfs:subClassOf rdf:resource="#ConductingEquipment"/>
+    <cims:belongsToCategory rdf:resource="#Package_Wires"/>
+    <rdfs:comment>A generic device designed to close, or open, or both, one or more electric circuits.</rdfs:comment>
+    <rdfs:label>Switch</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Terminal">
+    <rdfs:subClassOf rdf:resource="#IdentifiedObject"/>
+    <cims:belongsToCategory rdf:resource="#Package_Core"/>
+    <rdfs:comment>An electrical connection point to a piece of conducting equipment. Terminals are connected at physical connection points called connectivity nodes.</rdfs:comment>
+    <rdfs:label>Terminal</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Package_IEC61970">
+    <cims:belongsToCategory rdf:resource="#Package_TC57CIM"/>
+    <rdfs:comment>The ControlArea package models area specifications which can be used for a variety of purposes.  The package as a whole models potentially overlapping control area specifications for the purpose of actual generation control, load forecast area load capture, or powerflow based analysis.</rdfs:comment>
+    <rdfs:label>IEC61970</rdfs:label>
+    <rdf:type rdf:resource="http://iec.ch/TC57/1999/rdf-schema-extensions-19990926#ClassCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#ConnectivityNode">
+    <rdfs:subClassOf rdf:resource="#IdentifiedObject"/>
+    <cims:belongsToCategory rdf:resource="#Package_IES_Projects"/>
+    <rdfs:comment>Connectivity nodes are points where terminals of conducting equipment are connected together with zero impedance.</rdfs:comment>
+    <rdfs:label>ConnectivityNode</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#TopologicalNode">
+    <rdfs:subClassOf rdf:resource="#IdentifiedObject"/>
+    <cims:belongsToCategory rdf:resource="#Package_IES_Projects"/>
+    <rdfs:comment>For a detailed substation model a topological node is a set of connectivity nodes that, in the current network state, are connected together through any type of closed switches, including  jumpers. Topological nodes change as the current network state changes (i.e., switches, breakers, etc. change state).
+For a planning model, switch statuses are not used to form topological nodes. Instead they are manually created or deleted in a model builder tool. Topological nodes maintained this way are also called "busses".</rdfs:comment>
+    <rdfs:label>TopologicalNode</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Package_Core">
+    <cims:belongsToCategory rdf:resource="#Package_IEC61970"/>
+    <rdfs:comment>Contains the core PowerSystemResource and ConductingEquipment entities shared by all applications plus common collections of those entities. Not all applications require all the Core entities.  This package does not depend on any other package except the Domain package, but most of the other packages have associations and generalizations that depend on it.</rdfs:comment>
+    <rdfs:label>Core</rdfs:label>
+    <rdf:type rdf:resource="http://iec.ch/TC57/1999/rdf-schema-extensions-19990926#ClassCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Package_TC57CIM">
+    <rdfs:comment>The IEC 61968 subpackages of the CIM are developed, standardized and maintained by IEC TC57 Working Group 14: interfaces for distribution management (WG14).
+Currently, normative parts of the model support the needs of information exchange defined in IEC 61968-3, IEC 61968-4, IEC 61968-9 and in IEC 61968-13.</rdfs:comment>
+    <rdfs:label>TC57CIM</rdfs:label>
+    <rdf:type rdf:resource="http://iec.ch/TC57/1999/rdf-schema-extensions-19990926#ClassCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#ConductingEquipment">
+    <rdfs:subClassOf rdf:resource="#Equipment"/>
+    <cims:belongsToCategory rdf:resource="#Package_IES_Projects"/>
+    <rdfs:comment>The parts of the power system that are designed to carry current or that are conductively connected through terminals.</rdfs:comment>
+    <rdfs:label>ConductingEquipment</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Equipment">
+    <rdfs:subClassOf rdf:resource="#PowerSystemResource"/>
+    <cims:belongsToCategory rdf:resource="#Package_IES_Projects"/>
+    <rdfs:comment>The parts of a power system that are physical devices, electronic or mechanical.</rdfs:comment>
+    <rdfs:label>Equipment</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#IdentifiedObject">
+    <cims:belongsToCategory rdf:resource="#Package_Core"/>
+    <rdfs:comment>This is a root class to provide common identification for all classes needing identification and naming attributes.</rdfs:comment>
+    <rdfs:label>IdentifiedObject</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#BaseVoltage">
+    <rdfs:subClassOf rdf:resource="#IdentifiedObject"/>
+    <cims:belongsToCategory rdf:resource="#Package_Core"/>
+    <rdfs:comment>Defines a system base voltage which is referenced.</rdfs:comment>
+    <rdfs:label>BaseVoltage</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#ConnectivityNodeContainer">
+    <rdfs:subClassOf rdf:resource="#PowerSystemResource"/>
+    <cims:belongsToCategory rdf:resource="#Package_IES_Projects"/>
+    <rdfs:comment>A base class for all objects that may contain connectivity nodes or topological nodes.</rdfs:comment>
+    <rdfs:label>ConnectivityNodeContainer</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Package_IES_Projects">
+    <cims:belongsToCategory rdf:resource="#Package_TC57CIM"/>
+    <rdfs:label>IES_Projects</rdfs:label>
+    <rdf:type rdf:resource="http://iec.ch/TC57/1999/rdf-schema-extensions-19990926#ClassCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#PowerSystemResource">
+    <rdfs:subClassOf rdf:resource="#IdentifiedObject"/>
+    <cims:belongsToCategory rdf:resource="#Package_Core"/>
+    <rdfs:comment>A power system resource can be an item of equipment such as a switch, an equipment container containing many individual items of equipment such as a substation, or an organisational entity such as sub-control area. Power system resources can have measurements associated.</rdfs:comment>
+    <rdfs:label>PowerSystemResource</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+</rdf:RDF>

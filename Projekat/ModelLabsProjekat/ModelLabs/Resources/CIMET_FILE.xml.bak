@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:cim="http://iec.ch/TC57/2010/CIM-schema-cim15#"
+	xmlns:ftn="http://www.ftnydro.com/CIM15/2010/extension#">
+
+	<!--ConnectivityNodeContainer-->
+	<cim:ConnectivityNodeContainer rdf:ID="CNC_001">
+		<cim:IdentifiedObject.aliasName>CNC_001_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>CNC_001_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>CNC_001_name</cim:IdentifiedObject.name>
+	</cim:ConnectivityNodeContainer>
+	<cim:ConnectivityNodeContainer rdf:ID="CNC_002">
+		<cim:IdentifiedObject.aliasName>CNC_002_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>CNC_002_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>CNC_002_name</cim:IdentifiedObject.name>
+	</cim:ConnectivityNodeContainer>
+
+	<!--TopologicalNode-->
+	<cim:TopologicalNode rdf:ID="TN_001">
+		<cim:IdentifiedObject.aliasName>TN_001_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>TN_001_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TN_001_name</cim:IdentifiedObject.name>
+	</cim:TopologicalNode>
+	<cim:TopologicalNode rdf:ID="TN_002">
+		<cim:IdentifiedObject.aliasName>TN_002_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>TN_002_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TN_002_name</cim:IdentifiedObject.name>
+	</cim:TopologicalNode>
+
+	<!--ConnectivityNode-->
+	<cim:ConnectivityNode rdf:ID="CN_001">
+		<cim:ConnectivityNode.ConnectivityNodeContainer rdf:resource="CNC_001"/>
+		<cim:ConnectivityNode.TopologicalNode rdf:resource="TN_001"/>
+		<cim:IdentifiedObject.aliasName>CN_001_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>CN_001_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>CN_001_name</cim:IdentifiedObject.name>
+	</cim:ConnectivityNode>
+	<cim:ConnectivityNode rdf:ID="CN_002">
+		<cim:ConnectivityNode.ConnectivityNodeContainer rdf:resource="CNC_001"/>
+		<cim:ConnectivityNode.TopologicalNode rdf:resource="TN_001"/>
+		<cim:IdentifiedObject.aliasName>CN_002_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>CN_002_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>CN_002_name</cim:IdentifiedObject.name>
+	</cim:ConnectivityNode>
+	<cim:ConnectivityNode rdf:ID="CN_003">
+		<cim:ConnectivityNode.ConnectivityNodeContainer rdf:resource="CNC_002"/>
+		<cim:ConnectivityNode.TopologicalNode rdf:resource="TN_002"/>
+		<cim:IdentifiedObject.aliasName>CN_003_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>CN_003_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>CN_003_name</cim:IdentifiedObject.name>
+	</cim:ConnectivityNode>
+	<cim:ConnectivityNode rdf:ID="CN_004">
+		<cim:ConnectivityNode.ConnectivityNodeContainer rdf:resource="CNC_002"/>
+		<cim:ConnectivityNode.TopologicalNode rdf:resource="TN_002"/>
+		<cim:IdentifiedObject.aliasName>CN_004_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>CN_004_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>CN_004_name</cim:IdentifiedObject.name>
+	</cim:ConnectivityNode>
+
+	<!--BaseVoltage-->
+	<cim:BaseVoltage rdf:ID="BV_001">
+		<cim:IdentifiedObject.aliasName>BV_001_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>BV_001_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>BV_001_name</cim:IdentifiedObject.name>
+	</cim:BaseVoltage>
+	<cim:BaseVoltage rdf:ID="BV_002">
+		<cim:IdentifiedObject.aliasName>BV_002_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>BV_002_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>BV_002_name</cim:IdentifiedObject.name>
+	</cim:BaseVoltage>
+
+	<!--Switch-->
+	<cim:Switch rdf:ID="SW_001">
+		<cim:Switch.normalOpen>true</cim:Switch.normalOpen>
+		<cim:Switch.ratedCurrent>40.1</cim:Switch.ratedCurrent>
+		<cim:Switch.retained>true</cim:Switch.retained>
+		<cim:Switch.switchOnCount>4</cim:Switch.switchOnCount>
+		<cim:Switch.switchOnDate>2022-05-05T13:45:30.0900000</cim:Switch.switchOnDate>
+		<cim:ConductingEquipment.BaseVoltage rdf:resource="BV_001"/>
+		<cim:Equipment.aggregate>true</cim:Equipment.aggregate>
+		<cim:Equipment.normallyInService>true</cim:Equipment.normallyInService>
+		<cim:IdentifiedObject.aliasName>SW_001_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>SW_001_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>SW_001_name</cim:IdentifiedObject.name>
+	</cim:Switch>
+	<cim:Switch rdf:ID="SW_002">
+		<cim:Switch.normalOpen>false</cim:Switch.normalOpen>
+		<cim:Switch.ratedCurrent>50.1</cim:Switch.ratedCurrent>
+		<cim:Switch.retained>false</cim:Switch.retained>
+		<cim:Switch.switchOnCount>5</cim:Switch.switchOnCount>
+		<cim:Switch.switchOnDate>2022-06-05T13:45:30.0900000</cim:Switch.switchOnDate>
+		<cim:ConductingEquipment.BaseVoltage rdf:resource="BV_002"/>
+		<cim:Equipment.aggregate>false</cim:Equipment.aggregate>
+		<cim:Equipment.normallyInService>false</cim:Equipment.normallyInService>
+		<cim:IdentifiedObject.aliasName>SW_002_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>SW_002_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>SW_002_name</cim:IdentifiedObject.name>
+	</cim:Switch>
+	<cim:Switch rdf:ID="SW_003">
+		<cim:Switch.normalOpen>true</cim:Switch.normalOpen>
+		<cim:Switch.ratedCurrent>40.1</cim:Switch.ratedCurrent>
+		<cim:Switch.retained>true</cim:Switch.retained>
+		<cim:Switch.switchOnCount>4</cim:Switch.switchOnCount>
+		<cim:Switch.switchOnDate>2022-05-05T13:45:30.0900000</cim:Switch.switchOnDate>
+		<cim:ConductingEquipment.BaseVoltage rdf:resource="BV_001"/>
+		<cim:Equipment.aggregate>true</cim:Equipment.aggregate>
+		<cim:Equipment.normallyInService>true</cim:Equipment.normallyInService>
+		<cim:IdentifiedObject.aliasName>SW_003_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>SW_003_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>SW_003_name</cim:IdentifiedObject.name>
+	</cim:Switch>
+
+	<!--Terminal-->
+	<cim:Terminal rdf:ID="T_001">
+		<cim:Terminal.ConductingEquipment rdf:resource="SW_001"/>
+		<cim:Terminal.ConnectivityNode rdf:resource="CN_001"/>
+		<cim:IdentifiedObject.aliasName>T_001_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>T_001_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>T_001_name</cim:IdentifiedObject.name>
+	</cim:Terminal>
+	<cim:Terminal rdf:ID="T_002">
+		<cim:Terminal.ConductingEquipment rdf:resource="SW_002"/>
+		<cim:Terminal.ConnectivityNode rdf:resource="CN_002"/>
+		<cim:IdentifiedObject.aliasName>T_002_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>T_002_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>T_002_name</cim:IdentifiedObject.name>
+	</cim:Terminal>
+	<cim:Terminal rdf:ID="T_003">
+		<cim:Terminal.ConductingEquipment rdf:resource="SW_003"/>
+		<cim:Terminal.ConnectivityNode rdf:resource="CN_003"/>
+		<cim:IdentifiedObject.aliasName>T_003_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>T_003_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>T_003_name</cim:IdentifiedObject.name>
+	</cim:Terminal>
+	<cim:Terminal rdf:ID="T_004">
+		<cim:Terminal.ConductingEquipment rdf:resource="SW_004"/>
+		<cim:Terminal.ConnectivityNode rdf:resource="CN_004"/>
+		<cim:IdentifiedObject.aliasName>T_004_aliasName</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>T_004_mRID</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>T_004_name</cim:IdentifiedObject.name>
+	</cim:Terminal>
+
+</rdf:RDF>

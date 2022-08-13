@@ -1,0 +1,28 @@
+﻿<Window x:Class="ClientAppTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientAppTest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="571.676" Width="1138.613">
+    <Grid Margin="0,0,2,0">
+        <ComboBox x:Name="ComboBox1" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Width="215" Height="35" SelectionChanged="ComboBox1_SelectionChanged"/>
+        <ComboBox x:Name="ComboBox2" HorizontalAlignment="Left" Margin="10,99,0,0" VerticalAlignment="Top" Width="215" Height="35" SelectionChanged="ComboBox2_SelectionChanged"/>
+        <TextBox  x:Name="TextBoxProps" HorizontalAlignment="Left" Height="447" Margin="230,41,0,0" TextWrapping="Wrap" IsReadOnly="True" VerticalAlignment="Top" Width="207"/>
+        <RichTextBox x:Name="RichTextBoxValues" IsReadOnly="True" HorizontalAlignment="Left" Height="447" Margin="442,41,0,0" VerticalAlignment="Top" Width="677">
+        </RichTextBox>
+        <ComboBox x:Name="ComboBox3" HorizontalAlignment="Left" Margin="10,160,0,0" VerticalAlignment="Top" Width="215" Height="35" SelectionChanged="ComboBox3_SelectionChanged"/>
+        <Button Content="Execute" HorizontalAlignment="Left" Margin="128,493,0,0" VerticalAlignment="Top" Width="97" Height="37" Click="Button_Click_Execute"/>
+        <Button Content="Restart" HorizontalAlignment="Left" Margin="10,493,0,0" VerticalAlignment="Top" Width="97" Height="37" Click="Button_Click_Restart"/>
+        <Label Content="Choose Method" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.365,0.159" Width="215"/>
+        <Label x:Name="LabelNum2" Content="" HorizontalAlignment="Left" Margin="10,73,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.365,0.159" Width="215"/>
+        <Label x:Name="LabelNum3" Content="" HorizontalAlignment="Left" Margin="10,134,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.365,0.159" Width="215"/>
+        <Label x:Name="LabelNum6" Content="" HorizontalAlignment="Left" Margin="230,15,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.365,0.159" Width="215"/>
+        <ComboBox x:Name="ComboBox4" HorizontalAlignment="Left" Margin="10,225,0,0" VerticalAlignment="Top" Width="215" Height="35" SelectionChanged="ComboBox4_SelectionChanged"/>
+        <Label x:Name="LabelNum4" Content="" HorizontalAlignment="Left" Margin="10,199,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.365,0.159" Width="215"/>
+        <ListBox x:Name="ListBoxProp" HorizontalAlignment="Left" Height="197" Margin="10,291,0,0" VerticalAlignment="Top" Width="215" SelectionChanged="ListBoxProp_SelectionChanged"/>
+        <Label x:Name="LabelNum5" Content="" HorizontalAlignment="Left" Margin="10,260,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.365,0.159" Width="215"/>
+        <Button Content="Select All" HorizontalAlignment="Left" Margin="150,458,0,0" VerticalAlignment="Top" Width="75" Height="30" Click="Button_Click"/>
+    </Grid>
+</Window>
