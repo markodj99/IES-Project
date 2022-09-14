@@ -260,7 +260,7 @@ namespace ClientAppTest
                     }
                 }
 
-                if (item.Type != PropertyType.ReferenceVector || item.AsReferences().Count <= 0) continue;
+                if (item.Type == PropertyType.ReferenceVector && item.AsReferences().Count > 0)
                 {
                     foreach (var refItem in item.AsReferences())
                     {
@@ -296,10 +296,10 @@ namespace ClientAppTest
 
                 if (type == "NONE")
                 {
-                    modelCodes.Add("IDOBJ_GID");
-                    modelCodes.Add("IDOBJ_ALIASNAME");
-                    modelCodes.Add("IDOBJ_MRID");
-                    modelCodes.Add("IDOBJ_NAME");
+                    modelCodes.Add("IDENTIFIEDOBJECT_GLOBALID");
+                    modelCodes.Add("IDENTIFIEDOBJECT_ALIASNAME");
+                    modelCodes.Add("IDENTIFIEDOBJECT_MRID");
+                    modelCodes.Add("IDENTIFIEDOBJECT_NAME");
                     ListBoxProp.ItemsSource = modelCodes;
                 }
                 else
@@ -313,7 +313,7 @@ namespace ClientAppTest
 
         #endregion
 
-        #region MyRegion
+        #region EXECUTE
 
         private void Button_Click_Execute(object sender, RoutedEventArgs e)
         {
@@ -517,7 +517,7 @@ namespace ClientAppTest
 
         #endregion
 
-        #region Restart
+        #region RESTART
 
         private void Button_Click_Restart(object sender, RoutedEventArgs e) => TextBoxProps.Text = string.Empty;
 

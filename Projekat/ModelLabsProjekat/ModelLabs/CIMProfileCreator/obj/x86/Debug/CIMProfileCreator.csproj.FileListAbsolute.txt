@@ -36,3 +36,17 @@ C:\Users\marko\Desktop\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\ob
 C:\Users\marko\Desktop\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.CoreCompileInputs.cache
 C:\Users\marko\Desktop\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
 C:\Users\marko\Desktop\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb
+C:\Users\marko\Desktop\IES-Project\Projekat\ModelLabsProjekat\ModelLabs\bin\Predefined\PredefinedClasses.xml
+C:\Users\marko\Desktop\IES-Project\Projekat\ModelLabsProjekat\ModelLabs\bin\Predefined\PredefinedEnumerations.xml
+C:\Users\marko\Desktop\IES-Project\Projekat\ModelLabsProjekat\ModelLabs\bin\Predefined\PredefinedPackages.xml
+C:\Users\marko\Desktop\IES-Project\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe.config
+C:\Users\marko\Desktop\IES-Project\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
+C:\Users\marko\Desktop\IES-Project\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb
+C:\Users\marko\Desktop\IES-Project\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.AssemblyReference.cache
+C:\Users\marko\Desktop\IES-Project\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\marko\Desktop\IES-Project\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.CIMProfileCreatorForm.resources
+C:\Users\marko\Desktop\IES-Project\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.Properties.Resources.resources
+C:\Users\marko\Desktop\IES-Project\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.GenerateResource.cache
+C:\Users\marko\Desktop\IES-Project\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\IES-Project\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
+C:\Users\marko\Desktop\IES-Project\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb
